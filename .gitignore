@@ -1,0 +1,14 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# folder
+.training_dataset/newsCorpora.csv
+training_dataset/newsCorpora.csv
+.webscrape_data/all_news.csv
+webscrape_data/all_news.csv

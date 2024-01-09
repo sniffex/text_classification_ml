@@ -1,0 +1,1 @@
+All the news article are scrape from various news websites. They may or may not be accurate based on their category.

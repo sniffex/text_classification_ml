@@ -1,0 +1,8 @@
+# main dependencies
+pandas
+numpy
+pytz
+python-dateutil
+scikit-learn
+seaborn
+selenium
